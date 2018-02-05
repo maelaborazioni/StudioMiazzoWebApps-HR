@@ -1,0 +1,7 @@
+firstFormID:"-1",
+i18nDataSource:"db:/svy_framework/i18n_messages",
+modulesNames:"HR_DAL,HR_Admin,MA_Shared,HR_DettaglioRetributivo,HR_Lookup,HR_Report,HR_Shared",
+onCloseMethodID:"7A5BA424-0891-4A07-A72C-8D7E0C390C1E",
+onOpenMethodID:"BFC5D5DB-017E-465D-9356-24286778A01A",
+typeid:43,
+uuid:"CECA8457-DECF-428E-9B36-F2D957CB9C94"
